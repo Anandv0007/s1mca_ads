@@ -33,8 +33,8 @@ void main()
 			case 2:
 				deletion();
 				break;
-			case 5:
-				return;
+			case 3:
+				exit(0);
 			default:
 				break;
 		}
